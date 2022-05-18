@@ -1,8 +1,9 @@
 div {
     border: 3px solid blue;
     padding: 25px;
-    box-shadow: 100px 100px black;
+    box-shadow: 10px 10px 50px 50px black;
     background-color: orange;
+    background-image: url(https://static.wixstatic.com/media/a5767d_86075db480a64755ad7f0412b171fa0e~mv2.gif);
 }
 li {
     margin:  10px;
@@ -11,6 +12,8 @@ li {
 
 h1 {
     font-family:fantasy;
+    box-shadow: 100px 100px 10px 10px black;
+    background-image: url(https://images.unsplash.com/photo-1592743263126-bb241ee76ac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
 }
 
 h2 {
